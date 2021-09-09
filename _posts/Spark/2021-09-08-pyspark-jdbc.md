@@ -1,6 +1,6 @@
 ---
-title: Parquet
-excerpt: Parquet 기초 1
+title: Spark JDBC
+excerpt: JDBC를 사용한 Spark Connection
 
 categories:
   - Spark
