@@ -57,7 +57,7 @@ alias python="python3"
 
 **4. 부어 부어!**
 ```bash
-source ~/.zshrc
+$ source ~/.zshrc
 ```
 
 이후 python --version 확인해보면 3.버전이 출력되는 것을 확인할 수 있다.
