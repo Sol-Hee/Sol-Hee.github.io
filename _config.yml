@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Sol-Hee"
   avatar           : "/assets/images/photo_0.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Analyst"
+  bio              : "개발을 사랑하는 데이터분석가"
   location         : "Seoul"
   email            :
   links:
